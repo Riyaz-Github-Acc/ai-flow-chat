@@ -12,9 +12,9 @@ Modern 3-page React application featuring **glassmorphism** design with **gradie
 
 ## 🚀 Features
 
-**Landing Page**: Hero section with glassmorphism overlay and gradient background /n
-**Dashboard**: Translucent metric cards, interactive charts, responsive grid layout
-**Chat Interface**: ChatGPT-style layout with glassmorphism message bubbles
+-   **Landing Page**: Hero section with glassmorphism overlay and gradient background
+-   **Dashboard**: Translucent metric cards, interactive charts, responsive grid layout
+-   **Chat Interface**: ChatGPT-style layout with glassmorphism message bubbles
 
 ## 🛠️ Tech Stack
 
